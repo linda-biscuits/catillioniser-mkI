@@ -1,0 +1,12 @@
+[submodule "electronics"]
+	path = electronics
+	url = https://github.com/linda-biscuits/catillioniser-electronics.git
+[submodule "enclosure"]
+	path = enclosure
+	url = https://github.com/linda-biscuits/catillioniser-enclosure.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/linda-biscuits/catillioniser-firmware.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/linda-biscuits/catillioniser-docs.git
